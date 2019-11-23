@@ -3,4 +3,4 @@ test
 
 This is a test for checking branch funcrion.
 
-あｆっｄｆｄｓ
+あｆっｄｆｄｓあｓｆっｄｆ
